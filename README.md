@@ -1,2 +1,2 @@
 # GitLearning
-Describe what the repository is for.
+Learning how to Git.
